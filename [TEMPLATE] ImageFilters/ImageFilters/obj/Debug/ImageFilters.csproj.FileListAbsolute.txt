@@ -1,0 +1,37 @@
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.exe
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.pdb
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\AdaptiveMedianFilter.exe
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\AdaptiveMedianFilter.pdb
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csprojResolveAssemblyReference.cache
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.Form1.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.Properties.Resources.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.ZGraphForm.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.GenerateResource.Cache
+C:\Users\Yasmeen Abdelaziz\Downloads\ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe.config
+C:\Users\Yasmeen Abdelaziz\Downloads\ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe
+C:\Users\Yasmeen Abdelaziz\Downloads\ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.pdb
+C:\Users\Yasmeen Abdelaziz\Downloads\ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZedGraph.dll
+C:\Users\Yasmeen Abdelaziz\Downloads\ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZGraphTools.dll
+C:\Users\Yasmeen Abdelaziz\Downloads\ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZGraphTools.pdb
+C:\Users\Yasmeen Abdelaziz\Downloads\ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.AssemblyReference.cache
+C:\Users\Yasmeen Abdelaziz\Downloads\ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.Form1.resources
+C:\Users\Yasmeen Abdelaziz\Downloads\ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.Properties.Resources.resources
+C:\Users\Yasmeen Abdelaziz\Downloads\ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.GenerateResource.cache
+C:\Users\Yasmeen Abdelaziz\Downloads\ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.CoreCompileInputs.cache
+C:\Users\Yasmeen Abdelaziz\Downloads\ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.CopyComplete
+C:\Users\Yasmeen Abdelaziz\Downloads\ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.exe
+C:\Users\Yasmeen Abdelaziz\Downloads\ImageFilters\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.pdb
+C:\Users\Yasmeen Abdelaziz\Downloads\yarb\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe.config
+C:\Users\Yasmeen Abdelaziz\Downloads\yarb\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe
+C:\Users\Yasmeen Abdelaziz\Downloads\yarb\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ImageFilters.pdb
+C:\Users\Yasmeen Abdelaziz\Downloads\yarb\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZedGraph.dll
+C:\Users\Yasmeen Abdelaziz\Downloads\yarb\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZGraphTools.dll
+C:\Users\Yasmeen Abdelaziz\Downloads\yarb\[TEMPLATE] ImageFilters\ImageFilters\bin\Debug\ZGraphTools.pdb
+C:\Users\Yasmeen Abdelaziz\Downloads\yarb\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.AssemblyReference.cache
+C:\Users\Yasmeen Abdelaziz\Downloads\yarb\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.Form1.resources
+C:\Users\Yasmeen Abdelaziz\Downloads\yarb\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.Properties.Resources.resources
+C:\Users\Yasmeen Abdelaziz\Downloads\yarb\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.GenerateResource.cache
+C:\Users\Yasmeen Abdelaziz\Downloads\yarb\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.CoreCompileInputs.cache
+C:\Users\Yasmeen Abdelaziz\Downloads\yarb\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.CopyComplete
+C:\Users\Yasmeen Abdelaziz\Downloads\yarb\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.exe
+C:\Users\Yasmeen Abdelaziz\Downloads\yarb\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\ImageFilters.pdb
